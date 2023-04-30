@@ -44,7 +44,7 @@ button {
 }
 
 .menu-link {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -63,7 +63,7 @@ button {
 }
 
 .contacts-menu-link {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -82,7 +82,7 @@ button {
 }
 
 .hero-text {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -110,7 +110,7 @@ button {
 }
 
 .info-subtitle {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -120,7 +120,7 @@ button {
 }
 
 .info-subtitle-text {
-  font-family: "Roboto";
+ font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -130,7 +130,7 @@ button {
 }
 
 .work-section-title {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -151,7 +151,7 @@ button {
 
 
 .team-section-title {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: normal;
   line-height: 1.11;
@@ -163,7 +163,7 @@ button {
 }
 
 .team-section-subtitle {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -174,7 +174,7 @@ button {
 }
 
 .team-section-subtitle-text {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -216,7 +216,7 @@ button {
 }
 
 .footer-text {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -225,8 +225,8 @@ button {
   color: #F4F4FD;
 }
 
-.filter-btn {
-  font-family: 'Roboto';
+.filter-button {
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -246,7 +246,7 @@ button {
 }
 
 .services-list-subject {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -256,7 +256,7 @@ button {
 }
 
 .services-list-text {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
