@@ -44,8 +44,6 @@ button {
 }
 
 .menu-link {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -65,7 +63,6 @@ button {
 .contacts-menu-link {
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -82,8 +79,6 @@ button {
 }
 
 .hero-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -110,8 +105,6 @@ button {
 }
 
 .info-subtitle {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -120,9 +113,6 @@ button {
 }
 
 .info-subtitle-text {
- font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -130,9 +120,6 @@ button {
 }
 
 .work-section-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -151,9 +138,7 @@ button {
 
 
 .team-section-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
-  font-style: normal;
   line-height: 1.11;
   font-size: 36px;
   letter-spacing: 0.02em;
@@ -163,8 +148,6 @@ button {
 }
 
 .team-section-subtitle {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -174,9 +157,6 @@ button {
 }
 
 .team-section-subtitle-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;   
   text-align: center;
@@ -191,7 +171,6 @@ button {
 
 .logo-footer {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -203,8 +182,6 @@ button {
 }
 
 .logo-footer-studio {
-  font-family: 'Raleway';
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -216,9 +193,6 @@ button {
 }
 
 .footer-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -249,8 +223,6 @@ button {
 }
 
 .services-list-subject {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -259,9 +231,6 @@ button {
 }
 
 .services-list-text {
-  font-family: 'Roboto' sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;    
   letter-spacing: 0.02em;
